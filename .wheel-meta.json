@@ -1,0 +1,22 @@
+{
+  "wheel_id": 967,
+  "structure": "umbrella",
+  "slug": "northshorekitchenrenovation-155",
+  "project": "kitchen-renovations-north-shore-seasonal-timing-9b8eeb1ebdf8c9b",
+  "parent_t1_ref": "northshorekitchenrenovation-014",
+  "node_role": "buffer",
+  "money_target": "northshorekitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations north shore seasonal timing",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovations-north-shore-seasonal-timing-9b8eeb1ebdf8c9b/",
+  "tier": "T2",
+  "writeback_nonce": "c4d12d56fc1f0b9c",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/kitchen-renovations-north-shore-northshorekitchenrenovation-014/",
+      "anchor": "more on kitchen renovations north shore",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
